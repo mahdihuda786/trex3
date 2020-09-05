@@ -70,7 +70,7 @@ function setup() {
   cloudsGroup = createGroup();
 
   
-  trex.setCollider("circle",0,0,trex.width,trex.height);
+  trex.setCollider("circle",0,0,40);
   
   
   
